@@ -18,7 +18,7 @@ while cap.isOpened():
 
         if cv.waitKey(1) & 0xFF == ord('q'):
             break
-    else:
+    else:kodjiahyaif
         break
 
 cap.release()

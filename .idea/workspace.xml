@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="390367f8-0437-49e3-9807-717ad9c240f6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ColorDiscrimination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ColorDiscrimination2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoDrawing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/DayDayUpQ1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/DayDayUpQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/DayDayUpQ4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/DayDyaUpQ3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/TempConvert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shake_avoiding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualized_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualized_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualized_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualized_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +61,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/anaconda3/Scripts/conda.exe",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
